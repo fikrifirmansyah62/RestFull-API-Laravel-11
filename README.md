@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <h1 align="center"> HIT API ke DATABASE SECARA ONLINE </h1>
-<a href="https://restfull-api-laravel-11-production.up.railway.app/" target="_blank"></a>
+<a href="https://restfull-api-laravel-11-production.up.railway.app/" target="_blank"> LIVE PREVIEW</a>
 <p>GET: https://restfull-api-laravel-11-production.up.railway.app/api/posts </p>
 <p>POST: https://restfull-api-laravel-11-production.up.railway.app/api/posts</p>
 <p>(UPDATE) POST: https://restfull-api-laravel-11-production.up.railway.app/api/posts/2</p>
